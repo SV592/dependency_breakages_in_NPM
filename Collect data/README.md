@@ -49,3 +49,20 @@ cd github-repo-data-extractor
 ```bash
 pip install pandas requests
 ```
+
+
+## Output
+- Processed Repository Data (scheme_info)
+   - The following columns are included in the output CSV:
+
+- Name: Name of the repository.
+- Description: Description of the repository.
+- Url: Repository URL.
+- Private: Indicates whether the repository is private.
+- Fork: Indicates whether the repository is a fork.
+- ForkCount: Number of forks.
+- Stars: Number of stargazers.
+- Commits: Total commits in main or master branch.
+- Failed Requests (failed_info)
+- Logs errors for repositories where data retrieval failed.
+- Includes repository name, owner, and error details.
