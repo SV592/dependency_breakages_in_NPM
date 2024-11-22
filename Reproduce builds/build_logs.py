@@ -44,7 +44,7 @@ def main():
         commits = commits[start_index:]
 
     repo_path = "./github/aerospike-client-nodejs"
-    logs_directory = "C:\\Users\\23pears\\Desktop\\Grad Work (UoW)\\Thesis\\Get Builds (New)\\aerospike builds"  # Updated logs directory
+    logs_directory = "aerospike builds"  # Updated logs directory
 
     prev_commit = None
     for commit in commits:
