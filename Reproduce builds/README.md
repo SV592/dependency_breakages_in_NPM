@@ -43,6 +43,14 @@ The `build_logs.py` script automates the process of replaying builds for specifi
      sudo apt install act  # Linux
      ```
 
+#### Windows
+1. Download the latest release of **act** from [GitHub releases](https://github.com/nektos/act/releases).
+2. Extract the `.zip` file and move `act.exe` to a directory included in your system's PATH.
+3. Verify the installation:
+   ```bash
+   act --version
+
+
 5. **Docker**:
    - Docker is required for running builds via `act`. Install it from [Docker's official website](https://www.docker.com/).
 
