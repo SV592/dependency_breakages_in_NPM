@@ -71,5 +71,5 @@ logs_directory = "C:\\Users\\YourUsername\\Desktop\\BuildLogs"
 ```
 
 ## Authors
-Shaquille Pearson
-Mahmoud Alfadel
+- Shaquille Pearson
+- Mahmoud Alfadel
