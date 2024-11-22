@@ -1,4 +1,4 @@
-# GitHub Build Logs Extractor
+# GitHub Build Reproduction
 
 The `build_logs.py` script automates the process of replaying builds for specific commits in a GitHub repository and extracting detailed build logs. This script is particularly useful for analyzing Continuous Integration (CI) workflows and their associated builds.
 
