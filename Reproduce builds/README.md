@@ -70,6 +70,3 @@ The `build_logs.py` script automates the process of replaying builds for specifi
 logs_directory = "C:\\Users\\YourUsername\\Desktop\\BuildLogs"
 ```
 
-## Authors
-- Shaquille Pearson
-- Mahmoud Alfadel
